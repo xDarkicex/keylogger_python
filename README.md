@@ -3,5 +3,5 @@
 Simple python keylogger.
 
 ##Dependancies 
-- [x] pyHook
-- [x] pywin32 
+- [x] pyHook - https://pypi.python.org/pypi/pyHook
+- [x] pywin32 - https://pypi.python.org/pypi/pywin32
